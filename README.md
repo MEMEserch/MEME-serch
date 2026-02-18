@@ -1,4 +1,6 @@
-I am just some guy who is addicted to working on a year 10 school project website. . . that already got graded
+just something I worked on for a Y10 tech assesment thing for who knows how long, I definitetly spend far longer on it then I should (especially since it was graded 2 years ago as of 2026)
+
+anyway I don't work on it anymore but if you want to take a look by all means do so
 
 heres the link
 https://meme-serch-1.tiiny.site/
